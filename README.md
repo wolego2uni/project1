@@ -1,2 +1,2 @@
 # project1
-ml project
+ml project for showcasing 
